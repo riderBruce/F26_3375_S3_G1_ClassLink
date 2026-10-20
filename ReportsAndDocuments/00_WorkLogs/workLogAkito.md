@@ -7,3 +7,6 @@
 | October 3, 2026 | 1.25 | Created the project schedule, including milestones, task breakdown, and deadlines |
 | October 5, 2026 | 2.00 | Finalized the app idea and defined its main concept, target users, and core features |
 | October 7, 2026 | 2.00 | Wrote the proposal document mainly introduction and preliminary list of features, and prepared the materials for submission |
+| October 15, 2026 | 0.83 | Watched the video of Requirement Gathering and studied for it. |
+| October 18, 2026 | 1.00 | Learned Figma with an example of WhatsApp |
+| October 19, 2026 | 1.33 | Wrote the progress report. |
